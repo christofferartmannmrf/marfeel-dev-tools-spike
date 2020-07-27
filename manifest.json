@@ -1,0 +1,12 @@
+{
+  "manifest_version" : 2,
+  "name" : "Marfeel Dev Tools",
+  "version" : "1.0.0",
+  "description" : "Developer Tools for Marfeel",
+  "author" : "Marfeel",
+  "devtools_page" : "index.html",
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "permissions": [
+    "tabs"
+  ]
+}
